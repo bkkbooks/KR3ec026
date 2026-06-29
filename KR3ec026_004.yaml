@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ec026/jc/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大豆黃卷本經中品氣味甘平無毒主治主濕痹筋攣膝痛不可屈伸核曰造黃卷法壬癸曰以井華水浸黑大豆候芽長五寸干之即為黃卷用時熬過服食所需也參曰大豆作黃卷比之區萌而達蘖者長十數倍矣從艮而震震而巽矣自癸而甲甲而乙矣始生之曰黃黃而卷曲直之木性備矣木為肝臟藏真通於肝肝臟筋膜之氣也大筋聚於膝膝屬溪谷之府也故主濕痹筋攣膝痛不可屈伸屈伸為曲直象形從治法也
+  hash: sha256:bcaaaee1364af166dfe43913262a54597b32568d64e98e6a4fc5cf1a002932d8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec026_jc_NaN-d12.d16.h1s1}
+  - {type: 'tls:div-end', offset: 166, content: '', id: KR3ec026_jc_000-d12d16}
+  - {type: 'tls:div-start', offset: 166, content: '', id: KR3ec026_jc_000-d12d17, level: 2, head_text: 水銀}
+metadata:
+  title: 本草乘雅半偈
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec026.xml
+hash: sha256:3a9acb70e5b1d6369acff5885439260ae5aa793d97b47c63922d0b7bdf5db51e

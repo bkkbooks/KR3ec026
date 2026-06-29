@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ec026/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷柏本經上品春秋二分陰陽離也氣味辛平無毒主治主五臟邪氣女子陰中寒熱痛癥瘕血閉絕子久服輕身和顏色核曰出常山山谷關陝沂兗亦有之叢生石上春分宿根再發高三五寸細葉似側柏屈藏如雞足根紫赤多須六七月採取陰乾修治以鹽水煮半日再以井水煮半日曬乾焙用叅曰葉形似柏屈曲拳攣因名卷柏一名豹足求股亦取象形一名萬歲長生不死草言根棲岩石能耐歲寒一名交時言春分始發時值陰離於陽能與陽相交合故主五臟至陰之地為邪所薄及女子陰中寒熱癥瘕血閉絕子此正陰不與陽功能使陰氣起亟陽氣前通交相匹配更能使陽氣外溢故和色輕身所謂陽在外陰之使也
+  hash: sha256:e4a567c9cbc0d2223bcc94eaf22bcea910fcc9af535ea363107ca81db0823639
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec026_jc_NaN-d9.d31.h1s1}
+  - {type: 'tls:div-end', offset: 246, content: '', id: KR3ec026_jc_000-d9d31}
+  - {type: 'tls:div-start', offset: 246, content: '', id: KR3ec026_jc_000-d9d32, level: 2, head_text: 紫石英}
+metadata:
+  title: 本草乘雅半偈
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec026.xml
+hash: sha256:c08b731ff36f19e9215e075192bcd8e36548dfbed5113e23647b6d7caf36fbea
